@@ -1,0 +1,16 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "@swc/core": "^1.2.43"
+  },
+  "deprecated": false,
+  "description": "Use swc to build your files from source. Automatically inherits from your local project `.swcrc` files.",
+  "license": "MIT",
+  "main": "plugin.js",
+  "name": "snowpack-plugin-swc",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "OliwerDrywa",
+  "version": "1.0.0"
+}
